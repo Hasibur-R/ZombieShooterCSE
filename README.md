@@ -1,6 +1,6 @@
 # ZombieShooterCSE
 <body>
-This a UNITY project using <strog>C#</strog> and <strong>Unity</strong>. A Zombie FPS game. We made the project from scratch based on our own idea.
+This a UNITY project using <strog>C#</strog> and <strong>Unity</strong>. A Zombie FPS game. We made the project from scratch based on our own idea. The base map is designed base on our Department.
   <h3><strong>Features</stronf></h3>
   <ol>
     <li>Map based on CSE deaprtment</li>
